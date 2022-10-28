@@ -1,5 +1,3 @@
 # Mini-projects
-Projects on data science
- i).EDA on Game of thrones series using numpy,pandas
- ii).House predictions based on machine learning using python
+Projects on data science like EDA on Game of thrones series using numpy,pandas and House predictions based on machine learning using python
  
